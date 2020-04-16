@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>NOpenMessaging</id>
+    <version>1.0.0</version>
+    <title>NOpenMessaging</title>
+    <authors>Jerry Bai</authors>
+    <owners>Jerry Bai</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/berkaroad/NOpenMessaging</projectUrl>
+    <description>OpenMessaging for dotnet</description>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <language>zh-Hans</language>
+    <tags>openmessaging mq topic</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.2" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>

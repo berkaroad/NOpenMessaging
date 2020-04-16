@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net462</TargetFrameworks>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Authors>Jerry Bai</Authors>
+    <PackageProjectUrl>https://github.com/berkaroad/NOpenMessaging</PackageProjectUrl>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Description>OpenMessaging for dotnet</Description>
+    <PackageId>NOpenMessaging</PackageId>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
